@@ -1,9 +1,7 @@
-# photoshop_scripts
 Scripts for photosop
 --------------------
 
   lasercut.atn
-  ------------
     Converts open image file to laser engrave it on
     dark or light material.
   - convert image to greyscale
@@ -16,21 +14,21 @@ Installation
 ------------
 To install a script in Photoshop CC, follow these instructions :
 
-- Show the Actions panel by clicking Window->Actions or pressing Alt+F9
-![Actions](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/1.png)
+  - Show the Actions panel by clicking Window->Actions or pressing Alt+F9
+  ![Actions](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/1.png)
 
-- Develop the menu in the upper-right corner of the Actions window
-![Menu](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/2.png)
+  - Develop the menu in the upper-right corner of the Actions window
+  ![Menu](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/2.png)
 
-- Click on Load Actions
-![Load](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/3.png)
+  - Click on Load Actions
+  ![Load](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/3.png)
 
-- Find and Load your .atn file
-![Retrieve](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/4.png)
+  - Find and Load your .atn file
+  ![Retrieve](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/4.png)
 
-- Select the action you want to execute
-![Select](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/5.png)
+  - Select the action you want to execute
+  ![Select](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/5.png)
 
-- Press play to execute script
-  Remember that your workspace must be ready beforehand (e.g. open your image)
-![Execute](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/6.png)
+  - Press play to execute script
+    Remember that your workspace must be ready beforehand (e.g. open your image)
+  ![Execute](https://raw.github.com/pciavald/photoshop_scripts/master/tutorial/6.png)
