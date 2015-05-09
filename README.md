@@ -1,7 +1,8 @@
 Scripts for photosop
---------------------
+====================
 
-  lasercut.atn
+lasercut.atn
+------------
     Converts open image file to laser engrave it on
     dark or light material.
   - convert image to greyscale
@@ -11,7 +12,8 @@ Scripts for photosop
   - (dark material mode) invert image
 
 Installation
-------------
+============
+
 To install a script in Photoshop CC, follow these instructions :
 
 - Show the Actions panel by clicking Window->Actions or pressing Alt+F9<br />
